@@ -294,7 +294,7 @@ li{
     margin-right: auto;
     max-width: 1600px;
     min-height: 600px;
-    background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../img/bg-png/img.png);
+    background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../img/img-cap.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -784,11 +784,11 @@ li{
     color: #2196F3;
 }
 .soc{
-    
+    display: block;
     width: 206px;
     height: 80px;
     margin-left: 70px;
-    display: block;
+    
       
 }
 
